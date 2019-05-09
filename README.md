@@ -1,4 +1,3 @@
-# ExBlock_front
 
 ## Launching a Digital Asset Exchange ##
 Download Source code and launch your own Liquidity exchange in 3 weeks with no hassle in Setup.
