@@ -9,7 +9,7 @@ Admin DEMO: https://exblock.co/check_admin
 Download Source code link : https://exblock.co/make_payment 
 
 
-#How to set up a Cryptocurrency exchange?#
+## How to set up a Cryptocurrency exchange? ##
 Build A Crypto Exchange Platform Like BINANCE, OKEX, Coinbase, Bittrex, Bitfinex, Kraken. Here are the Simple Steps to set up your own Cryptocurrency exchange;
 
 1. Buy A Cryptocurrency Exchange
